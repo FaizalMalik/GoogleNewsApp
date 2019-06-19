@@ -2,7 +2,7 @@
 //  News.swift
 //  GoogleNewsApp
 //
-//  Created by Faizal on 13/05/19.
+//  Created by Faizal on 19/06/19.
 //  Copyright © 2019 Faizal. All rights reserved.
 //
 
