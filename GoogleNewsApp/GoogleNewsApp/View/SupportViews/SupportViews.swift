@@ -2,7 +2,7 @@
 //  SupportViews.swift
 //  GoogleNewsApp
 //
-//  Created by Faizal on 18/05/19.
+//  Created by Faizal on 20/06/19.
 //  Copyright © 2019 Faizal. All rights reserved.
 //
 
